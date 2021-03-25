@@ -1,0 +1,12 @@
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.deps.json
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.runtimeconfig.json
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.runtimeconfig.dev.json
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.dll
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.pdb
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.AssemblyInfoInputs.cache
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.AssemblyInfo.cs
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.csproj.CoreCompileInputs.cache
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.dll
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.pdb
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.genruntimeconfig.cache
+C:\stash\stash-csharp-httpclient\httpclient-consume-apis-dotnet-core\03\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.csprojAssemblyReference.cache
